@@ -4,3 +4,5 @@
 Come find out what we are up to and join in the conversation!
 
 The forum is in the tab labeled "Discussions" up above ^^^
+
+Our rules are listed in "community-guidelines" within this repository
