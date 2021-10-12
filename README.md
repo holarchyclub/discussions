@@ -1,2 +1,2 @@
 # discussions
-This is where our current forum is located! Come find out what we are up to and join in the conversation!
+This is where our current forum is located. Come find out what we are up to and join in the conversation!
